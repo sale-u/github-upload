@@ -1,5 +1,5 @@
 Ovo je probni file koji imamo u master branchu
-1. master1
+ -> ovu liniju skidamo u novi_branch1
 2. master2
 Od ove linije, radimo u novi_branch1
 3. novi_branch1
